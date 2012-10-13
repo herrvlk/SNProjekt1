@@ -6,3 +6,4 @@
 5. Do mastera mergujemy jedynie zakończone funkcjonalności. Nie jest to jednoznaczne z usunięciem gałęzi związanej z daną funkcjonalnością, ponieważ nie mamy pewności, że funkcjonalność nie będzie w przyszłości poprawiana w razie potrzeby tudzież znalezienia błędu. Mastera traktujemy jako miejsce, gdzie znajduje się względnie przetestowana i działająca wersja projektu.
 6. Merge do mastera robimy najpierw checkoutując się na master, a potem mergujemy wybraną gałąź. Nie odwrotnie.
 7. W razie wątpliwości co zrobić w git, pytamy lub czytamy oficjalną książkę Pro Git (http://git-scm.com/book).
+8. Jedynym dopuszczalnym kodowaniem jest UTF-8.
